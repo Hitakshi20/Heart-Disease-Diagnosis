@@ -1,7 +1,10 @@
 
 # Heart Disease Diagnosis
 
-This project analyses the **Heart Disease** dataset (available on Kaggle) containing 14 variables (e.g., age, sex, chest pain type, blood pressure, cholesterol) for 297 patients.  The data can be used to predict whether a patient has heart disease based on their clinical measurements and demographics.
+This machine learning project predicts whether a patient is at risk of developing heart disease based on clinical indicators. It uses the UCI Heart Disease dataset, which contains patient attributes such as age, blood pressure, cholesterol levels, and chest pain type.
+
+The goal is to demonstrate how structured healthcare data and supervised machine learning can support early diagnosis and clinical decision-making.
+
 
 ## Contents
 
