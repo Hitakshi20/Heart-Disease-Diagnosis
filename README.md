@@ -6,7 +6,7 @@ This project analyses the **Heart Disease** dataset (available on Kaggle) contai
 ## Contents
 
 - `heart_disease_analysis.ipynb` – Jupyter notebook with steps to load, explore, preprocess and model the dataset.
-- `heart.csv` –  Please download the heart disease dataset from Kaggle and place it in this directory before running the notebook.
+- `heart.csv` –  The dataset contains 297 rows and 14 variables, including patient demographics (age, sex), clinical measurements (resting blood pressure, cholesterol, fasting blood sugar, etc.) and a diagnosis label indicating presence of heart disease.
 
 ## Steps to Run
 
